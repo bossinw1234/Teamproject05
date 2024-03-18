@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'ADLaM Display';
+  src: url('/adlam-display.ttf') format('truetype');
+  /* แก้ที่อยู่ของไฟล์ฟอนต์ให้ตรงกับที่คุณเก็บไฟล์ */
+}
+
+h1 {
+  font-family: 'ADLaM Display', sans-serif; /* ใช้ฟอนต์ ADLaM Display ใน <h1> */
+}

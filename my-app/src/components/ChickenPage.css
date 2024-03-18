@@ -1,0 +1,15 @@
+.menu-container img {
+    max-width: 30%;
+    height: auto;
+  }
+  .menu-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #d1eec4; /* เพิ่มเส้นขอบสีเทา */
+    padding: 20px; /* เพิ่มระยะห่างภายใน container */
+    margin-bottom: 20px; /* เพิ่มระยะห่างด้านล่างของ container */
+    border-radius: 15px; /* กำหนดรูปร่างของกรอบเป็นกลม */
+  }
+  
